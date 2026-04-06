@@ -1,3 +1,5 @@
+![logo](https://github.com/shahid2005a/CHAT-BOTAI/blob/main/CHATbot.png)
+
 <div align="center">
 
 # 💕 ULTRA ROMANTIC TELEGRAM BOT
@@ -45,3 +47,48 @@ This is not just another Telegram bot — it's your **Virtual Girlfriend** that 
 
 ### **Text Messages She Understands:**# CHAT-BOTAI
 CHAT BOT AI REPO
+
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
+```
+pkg update && pkg upgrade -y
+
+
+pkg install python -y
+
+
+pip install python-telegram-bot
+
+
+pkg install nano
+
+
+pkg install git
+
+git clone https://github.com/shahid2005a/CHAT-BOTAI.git
+
+
+cd CHAT-BOTAI
+
+```
+
+```
+ nano CHATAI.py
+```
+```
+python CHATAI.py
+```
+
+
+## 📌 Contact Me  
+
+<a href="https://www.youtube.com/@DigitalCyber-c5n">
+  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
+</a>  
+<br>
+
+<a href="https://t.me/GsmhackerBot">
+  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+</a>  
+<br>
+
+
