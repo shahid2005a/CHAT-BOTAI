@@ -7,8 +7,8 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes, CommandHandler
 
 # ------------------- CONFIGURATION -------------------
-BOT_TOKEN = "8753563708:AAGQn7wjTPTyvxBB6TIWzvx6nurei4d73lM"  # 🔴 YAHAN APNA TOKEN LAGAO
-ADMIN_ID = 8416089909  # 🔴 YAHAN APNA ADMIN ID LAGAO
+BOT_TOKEN = "1234567890"  # 🔴 YAHAN APNA TOKEN LAGAO
+ADMIN_ID = 1234567890  # 🔴 YAHAN APNA ADMIN ID LAGAO
 
 # ------------------- BANNER COLORS -------------------
 R = '\033[91m'  # Red
